@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class trialGit {
+public class trialCode {
 
     public static void main(String[] args){
             Scanner sc = new Scanner(System.in);
